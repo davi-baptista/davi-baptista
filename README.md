@@ -49,11 +49,18 @@
 # ⚙️ Github Analytics
 </br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=davimb&theme=dark)](https://github.com/davimb/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=davimb&hide=html&layout=compact&theme=dark)](https://github.com/davimb/)
+<p align="center" >  
+<img  src="https://github-readme-stats.vercel.app/api?username=davimb&theme=dark"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimb&hide=html&layout=compact&theme=dark"/>
+  </p>
 
 </br>
 </br>
+
+<p align="center">
+  <img alt="GIF" align="center" height="100" src="https://user-images.githubusercontent.com/55159856/135669085-db966a9b-2e84-4dd1-bb8e-3e6777bc6740.gif")>
+</p>
+
 </br>
 </br>
 
