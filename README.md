@@ -1,53 +1,28 @@
 </br>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/55159856/135667708-57c2f1e5-57fa-4d9f-a816-495db0df78c2.gif")></p>
-
+# 👨‍💻 Davi's Github
 </br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-# 👨‍💻 Davi's Github
-</br>
-
-
-<p align="left">
-🚀 Estudando: <strong> Fazendo faculdade na UFC (Universidade Federal do Ceará) </strong>
-</p>
-
-<p align="left">
-💻 Curso: <strong> Ciência da computação, 2º semestre </strong>
-</p>
-  
-<p align="left">
-  👾 Linguagens: 
-  <strong> <img height="22" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: 
-  <strong> <img height="22" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> </strong>
-  <strong> <img height="22" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </strong>
-  <strong> <img height="22" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> </strong>
-</p>
-          
-<p align="left">
-  💌 Para entrar em contato: 
-  <a href="mailto:davimaiabaptista21@gmail.com" target="_blank"><img height="22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/davimb_" target="_blank"><img height="22" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </p> 
- 
-</br>
-</br>
-
-<p align="center">
-  <img alt="GIF" align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif")>
-</p>
+### 🚀 Sobre mim:
+- Tenho 18 anos, aprendi a programar no ensino medio e decidi continuar aprendendo!
+### 💻 Curso:
+- Ciência da computação, 2º semestre, UFC (Universidade Federal do Ceará)
+### 👾 Linguagens: 
+- <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+### 💼 Ferramentas: 
+- <img height="30" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> <img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"> 
+### 💌 Para entrar em contato: 
+- <a href="mailto:davimaiabaptista21@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://instagram.com/davimb_" target="_blank"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </br>
 </br>
 
 # ⚙️ Github Analytics
 </br>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" min-width="200px" max-width="200px" width="200px" align="left" alt="Computador iuriCode">
 
 <p align="center" >  
 <img  src="https://github-readme-stats.vercel.app/api?username=davimb&theme=dark"/>
@@ -56,13 +31,3 @@
 
 </br>
 </br>
-
-<p align="center">
-  <img alt="GIF" align="center" height="100" src="https://user-images.githubusercontent.com/55159856/135669085-db966a9b-2e84-4dd1-bb8e-3e6777bc6740.gif")>
-</p>
-
-</br>
-</br>
-
-# 🐷 That's all folks!
-<p align="center"> <img src="https://user-images.githubusercontent.com/55159856/135667715-f84982b7-e012-43d0-a682-b3075445aea6.gif"></p>
