@@ -27,12 +27,3 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀
 
 ![gandalf_parrot](https://user-images.githubusercontent.com/55159856/135655728-cd9f6437-4d51-47ec-83e3-b277465974b8.gif)
-
-
-<a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimb&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davimb&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>)
