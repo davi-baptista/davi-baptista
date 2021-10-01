@@ -17,8 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" /></a>
+  <a href="davimaiabaptista21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/davimb_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" target="_blank"></a>
   </p> 
 ⠀⠀⠀⠀⠀⠀⠀⠀
