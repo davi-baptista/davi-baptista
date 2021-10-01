@@ -3,21 +3,25 @@
 # 👨‍💻 Davi's Github
 </br>
 
+
 <p align="left">
 🚀 Estudando: <strong> Fazendo faculdade na UFC (Universidade Federal do Ceará) </strong>
 </p>
+
 <p align="left">
 💻 Curso: <strong> Ciência da computação, 2º semestre </strong>
 </p>
   
 <p align="left">
-  👾 Linguagens: <strong> <img height="22" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </strong>
+  👾 Linguagens: 
+  <strong> <img height="22" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> <img height="22" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> </strong>
-  <strong> <img height="22" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> </strong>
+  💼 Ferramentas: 
+  <strong> <img height="22" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> </strong>
   <strong> <img height="22" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </strong>
+  <strong> <img height="22" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> </strong>
 </p>
           
 <p align="left">
@@ -42,3 +46,4 @@
 [![card](https://github-readme-stats.vercel.app/api?username=davimb&theme=dark)](https://github.com/davimb/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=davimb&hide=html&layout=compact&theme=dark)](https://github.com/davimb/)
 
+</br>
