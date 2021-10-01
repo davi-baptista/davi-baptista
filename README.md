@@ -1,3 +1,9 @@
+</br>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/55159856/135667708-57c2f1e5-57fa-4d9f-a816-495db0df78c2.gif")></p>
+
+</br>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # 👨‍💻 Davi's Github
@@ -47,3 +53,8 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=davimb&hide=html&layout=compact&theme=dark)](https://github.com/davimb/)
 
 </br>
+</br>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/55159856/135667715-f84982b7-e012-43d0-a682-b3075445aea6.gif"></p>
+
+
