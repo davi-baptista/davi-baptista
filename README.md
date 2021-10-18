@@ -1,11 +1,11 @@
 </br>
 
-# 💻 Davi's Github
+# 💻 Davi Baptista
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### 🚀 Sobre mim:
-- Tenho 18 anos, aprendi a programar no ensino medio e decidi continuar aprendendo.
+- Desenvolvedor Back-end.
 ### 👨‍💻 Curso:
 - Ciência da computação, 2º semestre, UFC (Universidade Federal do Ceará).
 ### 👾 Linguagens: 
