@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### 🚀 Sobre:
-- Pessoa Desenvolvedora Back-end.
 - Cursando Ciência da computação na UFC (Universidade Federal do Ceará).
 ### 👾 Linguagens: 
 - <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
