@@ -5,7 +5,7 @@
 <br>
 
 ### 👨🏻‍💻Sobre mim :
-Desenvolvedor apaixonado por solucionar problemas e otimizar processos através da tecnologia. Atualmente, estou concentrado em dominar a linguagem Python, aplicando-a em automações web e desktop, Robotic Process Automation (RPA) e análises avançadas no Power BI. Minha paixão por Python e automação me permite criar soluções eficazes e inovadoras, contribuindo significativamente para os projetos em que estou envolvido. Sempre estou em busca de novos desafios e oportunidades para aprofundar meus conhecimentos e contribuir para projetos interessantes e impactantes.
+🌟 Desenvolvedor apaixonado por solucionar problemas e otimizar processos através da tecnologia. Atualmente, estou concentrado em dominar a linguagem Python 🐍, aplicando-a em automações web e desktop 💻, Robotic Process Automation (RPA) 🤖 e análises avançadas no Power BI 📊. Minha paixão por Python e automação me permite criar soluções eficazes e inovadoras, contribuindo significativamente para os projetos em que estou envolvido. Sempre estou em busca de novos desafios e oportunidades 🚀 para aprofundar meus conhecimentos e contribuir para projetos interessantes e impactantes.
 
 <br>
 <hr>
