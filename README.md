@@ -5,9 +5,7 @@
 <br>
 
 ### 👨🏻‍💻Sobre mim :
-🌟 Sou um desenvolvedor Python com foco em BackEnd, especializado no uso de Django para construir aplicações robustas e escaláveis. Com um forte foco em criar soluções eficientes e elegantes, meu trabalho atual envolve o desenvolvimento de automações que otimizam processos e aumentam a produtividade.
-<br>
-<hr>
+🌟 Desenvolvedor Python com foco em BackEnd, especializado no uso de Django para construir aplicações robustas e escaláveis. Com um forte foco em criar soluções eficientes e elegantes, meu trabalho atual envolve o desenvolvimento de automações que otimizam processos e aumentam a produtividade.
 <br>
 
 ### 👾 Linguagens de programação:
@@ -15,7 +13,6 @@
 
 ### 💼 Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
-
 <br>
 
 ### 💌 Entre em contato:
