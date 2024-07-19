@@ -32,7 +32,7 @@
 <br>
 
 ### 🌟 Projetos em Destaque
-- [Robozinhos](link-para-o-projeto): Minhas automações
+- [Django-Masters](https://github.com/davi-baptista/django-masters): Django FullStack / BackEnd (APIs REST)
 
 <br>
 
