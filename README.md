@@ -14,19 +14,16 @@
 ### 👾 Linguagens de programação:
 [![Linguagens de programacao](https://skillicons.dev/icons?i=py,cpp,js)](https://skillicons.dev)
 
-### 💻 Tecnologias:
-[![Tecnologias](https://skillicons.dev/icons?i=selenium,html,css,bootstrap)](https://skillicons.dev)
-
 ### 💼 Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 <br>
 
 ### 💌 Entre em contato:
-[![Linkedin](https://img.shields.io/badge/-davibaptista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davimb/)](https://www.linkedin.com/in/davimb-/)
-[![GitHub](https://img.shields.io/github/followers/davi-baptista?label=follow&style=social)]({Link})
+[![Linkedin](https://img.shields.io/badge/-davibaptista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davimb)](https://www.linkedin.com/in/davimb-/)
+[![GitHub](https://img.shields.io/github/followers/davi-baptista?label=follow&style=social)]({https://github.com/davi-baptista})
 [![Gmail](https://img.shields.io/badge/-davimaiabaptista21@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davimaiabaptista21@gmail.com)](mailto:davimaiabaptista21@gmail.com)
-[![Instagram](https://img.shields.io/badge/-davimb__-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
+[![Instagram](https://img.shields.io/badge/-davimb_-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/davimb_)](https://www.instagram.com/davimb_)
 
 <hr>
 <br>
