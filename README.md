@@ -29,7 +29,7 @@
 <br>
 
 ### 🌟 Projetos em Destaque
-- [Course-Django-Masters](https://github.com/davi-baptista/django-masters): Django FullStack / BackEnd (APIs REST)
+- [Course-Django-Masters](https://github.com/davi-baptista/django-masters): Django FullStack / BackEnd (APIs RESTful)
 
 <br>
 
