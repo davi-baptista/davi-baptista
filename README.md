@@ -5,8 +5,7 @@
 <br>
 
 ### 👨🏻‍💻Sobre mim :
-🌟 Desenvolvedor apaixonado por solucionar problemas e otimizar processos através da tecnologia. Atualmente, estou concentrado em dominar a linguagem Python 🐍, aplicando-a em automações web e desktop 💻, Robotic Process Automation (RPA) 🤖 e análises avançadas no Power BI 📊. Minha paixão por Python e automação me permite criar soluções eficazes e inovadoras, contribuindo significativamente para os projetos em que estou envolvido. Sempre estou em busca de novos desafios e oportunidades 🚀 para aprofundar meus conhecimentos e contribuir para projetos interessantes e impactantes.
-
+🌟 Sou um desenvolvedor Python com foco em BackEnd, especializado no uso de Django para construir aplicações robustas e escaláveis. Com um forte foco em criar soluções eficientes e elegantes, meu trabalho atual envolve o desenvolvimento de automações que otimizam processos e aumentam a produtividade.
 <br>
 <hr>
 <br>
