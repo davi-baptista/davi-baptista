@@ -4,11 +4,9 @@
 
 <br>
 
-## 👨🏻‍💻Sobre mim
+## 👨🏻‍💻Sobre mimDesenvolvedor backend com foco em **Node.js** e **TypeScript**, atuando na construção de APIs organizadas, eficientes e fáceis de manter. Tenho experiência com **Clean Architecture**, **DDD**, **testes automatizados**, integração contínua e uso consistente de **boas práticas** de código.
 
-Sou um desenvolvedor focado em **BackEnd**, especializado no framework **Django**, com experiência na construção de aplicações robustas, escaláveis e orientadas à performance.
-Hoje trabalho principalmente com **Python**, criando **automações que otimizam processos** e reduzem o trabalho repetitivo no dia a dia.
-Ultimamente tenho me aventurado no **Node.js**, com o objetivo de me aprofundar no desenvolvimento **BackEnd**, explorando novas formas de construir APIs e serviços robustos.
+Na prática, venho trabalhando em automações que economizam tempo e recursos, sistemas internos com arquitetura modular e ferramentas próprias que substituem soluções pagas. Também já desenvolvi dashboards interativos integrando APIs externas e pipelines para lidar com grandes volumes de dados.
 
 <br>
 
