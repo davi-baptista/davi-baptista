@@ -6,7 +6,7 @@
 
 👨🏻‍💻Desenvolvedor backend com foco em **Node.js** e **TypeScript**, atuando na construção de APIs organizadas, eficientes e fáceis de manter. Tenho experiência com **Clean Architecture**, **DDD**, **testes automatizados**, integração contínua e uso consistente de **boas práticas** de código.
 
-Na prática, venho trabalhando em automações que economizam tempo e recursos, sistemas internos com arquitetura modular e ferramentas próprias que substituem soluções pagas. Também já desenvolvi dashboards interativos integrando APIs externas e pipelines para lidar com grandes volumes de dados.
+Na prática, venho trabalhando em automações que **economizam tempo e recursos**, sistemas internos com arquitetura modular e ferramentas próprias que **substituem soluções pagas**. Também já desenvolvi dashboards interativos integrando APIs externas e pipelines para lidar com **grandes volumes de dados**.
 
 <br>
 
